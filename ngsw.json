@@ -1,0 +1,116 @@
+{
+  "configVersion": 1,
+  "timestamp": 1608733265417,
+  "index": "/work-calendar/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/work-calendar/5.f89c2e1a1a3f7d78dfdf.js",
+        "/work-calendar/favicon.ico",
+        "/work-calendar/index.html",
+        "/work-calendar/main.de2223b8225fb807344b.js",
+        "/work-calendar/manifest.webmanifest",
+        "/work-calendar/polyfills-es5.a2a6edae5e5cb5faf5a7.js",
+        "/work-calendar/polyfills.3735ee5baf3ad2685970.js",
+        "/work-calendar/runtime.a551e7c9cfd9100f2c3d.js",
+        "/work-calendar/styles.0e9895bb6189f7d4aec5.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/work-calendar/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
+        "/work-calendar/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
+        "/work-calendar/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
+        "/work-calendar/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
+        "/work-calendar/assets/git-info.json",
+        "/work-calendar/assets/html/print-vacation.html",
+        "/work-calendar/assets/icons/add.svg",
+        "/work-calendar/assets/icons/icon-128x128.png",
+        "/work-calendar/assets/icons/icon-144x144.png",
+        "/work-calendar/assets/icons/icon-152x152.png",
+        "/work-calendar/assets/icons/icon-192x192.png",
+        "/work-calendar/assets/icons/icon-384x384.png",
+        "/work-calendar/assets/icons/icon-512x512.png",
+        "/work-calendar/assets/icons/icon-72x72.png",
+        "/work-calendar/assets/icons/icon-96x96.png",
+        "/work-calendar/assets/icons/remove.svg",
+        "/work-calendar/assets/images/logo_it2g.png",
+        "/work-calendar/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+        "/work-calendar/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+        "/work-calendar/fontawesome-webfont.8b43027f47b20503057d.eot",
+        "/work-calendar/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+        "/work-calendar/fontawesome-webfont.f691f37e57f04c152e23.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/work-calendar/5.f89c2e1a1a3f7d78dfdf.js": "4b212e1d0f68025b205dd3c1cb4eea7a95771407",
+    "/work-calendar/MaterialIcons-Regular.4674f8ded773cb03e824.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/work-calendar/MaterialIcons-Regular.5e7382c63da0098d634a.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/work-calendar/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/work-calendar/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/work-calendar/assets/git-info.json": "ada0ed2809ba7e96ebded255c938e600b8a15c3d",
+    "/work-calendar/assets/html/print-vacation.html": "5c2a6acf8fe5363ae19609779134fff0eea16fcc",
+    "/work-calendar/assets/icons/add.svg": "ce57aeedc03bd6580e059c32baaa80a8969c9071",
+    "/work-calendar/assets/icons/icon-128x128.png": "0783275ef171a43e452732adb217db9bc2364c58",
+    "/work-calendar/assets/icons/icon-144x144.png": "aa7285f030d43c4798a3a21c20d9480ce1ac666e",
+    "/work-calendar/assets/icons/icon-152x152.png": "1f69de9c6bb57294d5fc9d1cb55bae075d670f7e",
+    "/work-calendar/assets/icons/icon-192x192.png": "d9f096634feb4f36c5db1ffe4a1e6bdd42c21c24",
+    "/work-calendar/assets/icons/icon-384x384.png": "cebf8cf73aba8bf2a3aa228b4fce8188420faab9",
+    "/work-calendar/assets/icons/icon-512x512.png": "7d09313b86a889e59e602fb012c10dff132156a4",
+    "/work-calendar/assets/icons/icon-72x72.png": "8588489a973d255c2e42b6c1d00561786565cac0",
+    "/work-calendar/assets/icons/icon-96x96.png": "b32f19f2ce7b5e5b218bd8d9cad0a81113d0bcde",
+    "/work-calendar/assets/icons/remove.svg": "b602beca1e473f8a1576bfbd4ae6e357685331de",
+    "/work-calendar/assets/images/logo_it2g.png": "9c1d23aff8e32ac4dc8637203ba3f294f077a237",
+    "/work-calendar/favicon.ico": "011d56f0d6a8693893ddf74f23c5a5894b098ca0",
+    "/work-calendar/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/work-calendar/fontawesome-webfont.20fd1704ea223900efa9.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/work-calendar/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "/work-calendar/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/work-calendar/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/work-calendar/index.html": "52579ba9549b17db11fbf45843730e76e04df40a",
+    "/work-calendar/main.de2223b8225fb807344b.js": "7ef8ee94248504c83511a2c8760eb5cb40425db4",
+    "/work-calendar/manifest.webmanifest": "ae5e7c73fa00275611e88d05bf21ee807c2caaa3",
+    "/work-calendar/polyfills-es5.a2a6edae5e5cb5faf5a7.js": "ca8f71e6876dc75910efe32fde76bfc10463eba2",
+    "/work-calendar/polyfills.3735ee5baf3ad2685970.js": "691b30f396239de2011640448063d614620f8396",
+    "/work-calendar/runtime.a551e7c9cfd9100f2c3d.js": "50fbcf07985f73621c30b3f28a283859c72ed739",
+    "/work-calendar/styles.0e9895bb6189f7d4aec5.css": "911bd4d41ebb855c0488413ddcb323f38cdc4ed3"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/backend\\/.*$"
+    }
+  ]
+}
